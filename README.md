@@ -24,3 +24,6 @@ Used for analyzing and understanding user preferences to recommend suitable reci
 APIs:
 
 Integration with external APIs for retrieving nutritional data and recipe information.
+
+Start:  npm run dev (for React Js)
+        python app.py (for Flask)
